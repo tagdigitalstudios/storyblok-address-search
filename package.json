@@ -23,7 +23,7 @@
     "browserify-livereload": "^1.0.10",
     "cross-env": "^1.0.6",
     "ecstatic": "^2.0.0",
-    "http-server": "^0.9.0",
+    "http-server": "^14.1.1",
     "npm-run-all": "^1.6.0",
     "uglify-js": "^2.5.0",
     "vueify": "^9.0.0",
